@@ -1,5 +1,6 @@
 // archivo de transformacion de datos
 
-1. Filtrar datos duplicados de Clientes in ( 'DNI', 'RUC10', 'RUC20')
-2. Reubicar datos en las variables correspondientes in ('nombre_1', nombre_2', 'nombre_3')
+1. Filtrar datos duplicados de Clientes in ( 'DNI', 'RUC20')
+2. Reubicar datos en las variables correspondientes in ('nombre_1', 'nombre_3')
 3. Considerar 8 digitos para número de documento de identidad.
+4. Reubicar datos en las variables correspondientes in ('apellido_1', 'apellido_3')
